@@ -1,0 +1,25 @@
+2018-12-12,http://202.61.88.152:9002/view/staticpags/gzgg/2018-12-11/56f352b8a6464e8dbf1912b369642333.html,中共四川省委党校四川省中共四川省委党校堰湖改造工程（水景景观工程）竞争性磋商结果更正公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-10/464609a9a1404e43ace148513d63b566.html,四川省人事考试中心标准化考点监控建设项目(第三次)公开招标结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/gzgg/2018-12-12/9e469f72b11f4451beb7d27588946091.html,四川工程职业技术学院高温合金试件智能制造单元采购公开招标结果更正公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/gzgg/2018-12-12/1eb4832bcb5f49fa89ad9a519a00d8a7.html,四川省农业科学院生物技术核技术研究所实验楼改造项目竞争性磋商采购更正公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/9a5cccf38f354d89a1b48ce0738571ce.html,四川省企业兼并重组服务平台建设采购项目公开招标结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/2338d24d818445e1ab5bfc0c7d285aa1.html,四川省农业科学院园艺研究所条件平台建设仪器设备购置政府采购项目公开招标结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/acb1ff1ae397411087aff1cfea2ad95b.html,四川省疾病预防控制中心全自动病原菌检测系统第二次采购项目公开招标结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/59a23f97ac7d4b4da34aa882972dacfc.html,四川省交通运输厅道路运输管理局2018年度省级驾驶培训监管服务平台应用服务单一来源结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/7e49c000e15444ddbc586d27822d617f.html,四川省资阳强制隔离戒毒所等5个强制隔离戒毒所2018-2019年度大宗生活物资（猪肉）采购项目公开招标结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/6c5ad1b7e18247c491cf0e259e5c8b83.html,四川省地方志工作办公室《四川抗日战争志》编纂采购项目竞争性磋商废标、流标公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/e987441a91d04e02a25c4581910d9803.html,四川农业大学2018年中央专项+国家双一流教学科研辅助设备采购项目公开招标结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/jggg/2018-12-12/61d58944f1204216ba9f41a0615e9c96.html,川北医学院2018年维修改造工程一批采购项目（第二次）竞争性磋商结果公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/gzgg/2018-12-12/0aea74aa7e68458da697c31bbc1f3898.html,四川省成都未成年犯管教所AB门安防设施更正公告
+2018-12-12,http://202.61.88.152:9002/view/staticpags/gzgg/2018-12-12/3087d5e7c1fa45598a157dfe6cac3226.html,四川省成都未成年犯管教所会见系统升级改造更正公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb86797b68901679c9b455575f5&bulletinType=12&tenderMethod=00,甘孜州丹巴县地税局SCZC327323304_20180011椅类,台桌类,柜类,床类,沙发类网上竞价项目(第4次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb26797b65101679c9969c80624&bulletinType=12&tenderMethod=00,四川省中医药科学院 SCZC346949_20180059笔记本网上竞价项目(第3次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb26797b65101679c98437905ef&bulletinType=12&tenderMethod=00,四川省中医药科学院 SCZC346949_20180056笔记本网上竞价项目(第2次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb76797796d01679c9303b42713&bulletinType=12&tenderMethod=00,绵阳市涪城区地税局SCZC327309302_20180005空调机网上竞价项目采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb26797b65101679c909fa9052d&bulletinType=12&tenderMethod=00,四川省经济信息中心SCZC303601_20180028交换设备商场直购项目(第2次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb26797b65101679c8763e40448&bulletinType=12&tenderMethod=00,四川省经济信息中心SCZC303601_20180029服务器商场直购项目(第2次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb26797b65101679c82278f03bf&bulletinType=12&tenderMethod=00,四川省知识产权保护中心SCZC610902_20180013椅类,台桌类,柜类,沙发类,屏风类网上竞价项目(第8次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb76797796d01679c7d302e1c89&bulletinType=12&tenderMethod=00,四川旅游学院SCZC304912_20180116服务器商场直购项目采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb86797b68901679c7975737236&bulletinType=12&tenderMethod=00,四川省肿瘤医院SCZC352902_20180080普通电视设备网上竞价项目(第2次)采购公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb76797796d01679c78a8731a26&bulletinType=13&tenderMethod=00,四川省经济和信息化委员会机关SCZC302301_20180023椅类,台桌类,柜类,沙发类商场直购项目成交公告
+2018-12-11,http://202.61.88.152:9004/gpms/BulletinShowController.do?method=getBulletinInfo&projectId=2c92cfb86797b68901679c6880c06fe1&bulletinType=12&tenderMethod=00,四川省肿瘤医院HSCZC352902_20180054普通电视设备网上竞价项目采购公告
